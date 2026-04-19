@@ -1,0 +1,6 @@
+{
+  "name": "$binary_name",
+  "version": "$semver",
+  "build": "$content_hash-$commit-$timestamp",
+  "arch": "linux-$arch"
+}
