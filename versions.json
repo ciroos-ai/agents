@@ -1,5 +1,26 @@
 [
   {
+    "version": "v0.2.18",
+    "published_at": "2026-07-02T18:47:29Z",
+    "assets": {
+      "linux-amd64": {
+        "url": "https://github.com/ciroos-ai/agents/releases/download/v0.2.18/ciroos-agents-linux-amd64-v0.2.18.tgz",
+        "sha256": "fe13ccd596aa55deebfe06210e6c9ea30d4d036e3ef4e8f84499d1b6b98021a3",
+        "size_bytes": 16718896
+      },
+      "linux-arm64": {
+        "url": "https://github.com/ciroos-ai/agents/releases/download/v0.2.18/ciroos-agents-linux-arm64-v0.2.18.tgz",
+        "sha256": "dfccf66997cf76e01dd25c4e57d3df9818fd9cc3a98bce9dd79b149d6d9f4428",
+        "size_bytes": 15317780
+      },
+      "windows-amd64": {
+        "url": "https://github.com/ciroos-ai/agents/releases/download/v0.2.18/ciroos-agents-windows-amd64-v0.2.18.zip",
+        "sha256": "f3a3b75fb8da41a0b815bdfed571455c9ce0aa5d7c4ed3cb60aad2c8cb7892f6",
+        "size_bytes": 15462874
+      }
+    }
+  },
+  {
     "version": "v0.2.17",
     "published_at": "2026-06-29T12:38:41Z",
     "assets": {
